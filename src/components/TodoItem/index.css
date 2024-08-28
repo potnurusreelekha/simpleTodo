@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.todo-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+}
+.title {
+  font-family: Roboto;
+  font-size: 24px;
+  color: #000000;
+}
+button {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  width:100px;
+}
